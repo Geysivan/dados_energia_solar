@@ -57,5 +57,5 @@ Para executar os scripts Python, é necessário ter:
 
 ## AUTORES
 
-* **[Geysivan C S]** - Análise de dados e desenvolvimento dos scripts.
+* **Geysivan Campos** - Análise de dados e desenvolvimento dos scripts.
 * **Pedro Henrique** - Idealização, referencial teórico do artigo.
